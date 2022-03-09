@@ -1,0 +1,154 @@
+
+body{
+    margin:0px;
+}
+
+.navigation-bar {
+    width: auto;
+    height:100px;
+    background-color: #35424a;
+    color: white;
+}
+
+.para1{ float: left; font-size:30px; font-family: Arial, Helvetica, sans-serif;
+    padding-left:80px;
+}
+
+ul {
+    list-style: none;
+    margin-left:1300px;
+    padding-top:35px;
+
+}
+
+li{
+    display: inline;
+    font-size:16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right:20px;
+}
+
+#li1 {
+    color:#e8491d;
+
+}
+
+.linebreak{ width: auto;
+height:5px;
+background-color:#e74b1c;
+
+}
+
+.presentation{
+    width:auto;
+    text-align: center;
+    background-image: url(images/showcase.jpg);
+    background-repeat: no-repeat;
+    height: 800px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.presentation h1 {
+    font-size:55px;
+    margin-top:0px;
+    padding-top:200px;
+}
+
+.presentation p { 
+    font-size : 20px;
+    padding-right : 30px;
+    padding-left:60px;
+}
+
+.subscribe { 
+    width: auto;
+    height:100px;
+    background-color:#35424a;
+}
+
+.subscribe h1 {
+    margin-top:0px;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    padding : 30px;
+    padding-left:200px;
+    float:left;
+}
+
+#input { margin-top:25px;
+    margin-left:600px;
+    width: 300px;
+    height: 40px;
+}
+
+button { width:110px;
+height:40px;
+color:white;
+background-color: #e74b1c;
+}
+
+.logos {
+    width:auto;
+    height:300px;
+}
+
+img { margin-top:40px;
+    
+}
+
+#img1 { margin-top:40px;
+    margin-left : -250px;
+    margin-right: 250px;
+}
+
+#img2 { margin-left:100px;
+    margin-right:400px;
+}
+
+#firsth2 { margin-left:200px;}
+
+#span1 {
+    margin-right: 280px;
+    margin-left:120px;
+}
+
+#span2 {
+    margin-right: 350px;
+}
+
+.parahtml {
+    margin-left:230px;
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    float:left;
+
+}
+
+.paracss {
+    float:left;
+    margin-right:150px;
+    padding-left:80px;
+    margin-top:15px;
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paradesign {
+
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:15px;
+}
+
+.copyright {
+    height:80px;
+    background-color: #e8491d;
+    text-align: center;
+    font-size:16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    padding-top:25px;
+
+}
+
